@@ -1,0 +1,9 @@
+nav li {
+    padding: 20px;
+    display: inline;
+}
+
+ul {
+    text-align: center;
+    border: 2px;
+}
